@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<figure><embed src="https://wakatime.com/share/@Reddy/6f146860-3cf2-42fa-8437-5e3ac19f856b.svg"></embed></figure>
 <!--
 **ReddyX/ReddyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
