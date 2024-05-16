@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div style="background-color: white;border-radius: 10px;">
-  [![Wakatime Reddy](https://wakatime.com/share/@Reddy/f9174a4f-6388-4d04-9b12-66eddfc0e0da.png)](https://wakatime.com/@Reddy)
-</div>
+<img src="https://wakatime.com/share/@Reddy/f9174a4f-6388-4d04-9b12-66eddfc0e0da.png" style="background-color: white;" alt="Wakatime Reddy">
 <!--
 **ReddyX/ReddyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
