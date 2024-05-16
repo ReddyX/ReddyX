@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://wakatime.com/@Reddy">
-  <div style="background-color: white; border-radius: 10px;">
+  <div style="background-color: white!important; border-radius: 10px;">
     <img src="https://wakatime.com/share/@Reddy/f9174a4f-6388-4d04-9b12-66eddfc0e0da.png" alt="Wakatime Reddy">
   </div>
 </a>
