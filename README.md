@@ -1,5 +1,9 @@
 ### Hi there 👋
-<a href="https://wakatime.com/@Reddy"><img src="https://wakatime.com/share/@Reddy/f9174a4f-6388-4d04-9b12-66eddfc0e0da.png" style="background-color: white; width: 100%; height: 100%;" alt="Wakatime Reddy"></a>
+<a href="https://wakatime.com/@Reddy">
+  <div style="background-color: white; border-radius: 10px;">
+    <img src="https://wakatime.com/share/@Reddy/f9174a4f-6388-4d04-9b12-66eddfc0e0da.png" alt="Wakatime Reddy">
+  </div>
+</a>
 <!--
 **ReddyX/ReddyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
